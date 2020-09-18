@@ -1,2 +1,5 @@
 # Hello-world
-My first repository
+hii Amigos!
+I love Python :).
+
+And do u??
